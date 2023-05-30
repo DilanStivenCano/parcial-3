@@ -1,8 +1,8 @@
 export default {
-  apiKey: "AIzaSyBCPXhP2_Z2dlS8rEKqyV4DJv2IwIt18fY",
-  authDomain: "parcial-3-ea13d.firebaseapp.com",
-  projectId: "parcial-3-ea13d",
-  storageBucket: "parcial-3-ea13d.appspot.com",
-  messagingSenderId: "218926758331",
-  appId: "1:218926758331:web:4f4f638406f1982de56c9e"
-};
+    apiKey: "AIzaSyBLG9ThE0-UOYJ-cCcA6VXHJhx1C2z8An4",
+    authDomain: "parcial3-2e4fb.firebaseapp.com",
+    projectId: "parcial3-2e4fb",
+    storageBucket: "parcial3-2e4fb.appspot.com",
+    messagingSenderId: "348090217576",
+    appId: "1:348090217576:web:23348f619773fd7921b7dd"
+  };
